@@ -1,6 +1,6 @@
 # Introduction
 
-Hey guys Mel here, an independent security researcher active in audit contests. You can find all my public findings [Here](AddLink)
+Hey guys Mel here, an independent security researcher active in audit contests. You can find all my public findings [here](https://github.com/x0sauce/audit-portfolio?tab=readme-ov-file#public-contests)
 
 I have secured several first-place finishes in public contests, identifying over 20+ high/medium severity vulnerabilities across various protocols within less than a year of moving into web3 security.
 
