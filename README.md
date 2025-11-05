@@ -14,6 +14,12 @@ Looking out for any new opportunities, job opening, private audits, or collabora
 - **Code4rena Profile**: https://code4rena.com/@X0sauce
 - **Immunefi Profile**: https://immunefi.com/profile/X0sauce/
 
+# Private Audits
+
+| Date    | Provider                          | Project   | Type    | Report |
+| ------- | --------------------------------- | --------- | ------- | ------ |
+| 10.2025 | [Pashov](https://www.pashov.com/) | Polyester | Lending | -      |
+
 # Public Contests
 
 | Date    | Contest                                          | Platform  | Type                           | Vulnerabilities | Report                                                                                                     | Rank  |
@@ -41,9 +47,3 @@ Looking out for any new opportunities, job opening, private audits, or collabora
 | 11.2024 | vVv Launchpad - Investments & Token distribution | Sherlock  | Token Distributor              | 1H              | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Sherlock/2024-11-vvv-exchange-update-judging.md) | 1st   |
 | 11.2024 | Telcoin Update #2                                | Sherlock  | Stablecoin                     | -               | -                                                                                                          | 4th   |
 | 10.2024 | Gamma Brevis Rewarder                            | Sherlock  | Rewards                        | 1M              | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Sherlock/2024-10-gamma-rewarder.md)              | 2nd   |
-
-# Private Audits
-
-| Date    | Provider                          | Project   | Type    | Report |
-| ------- | --------------------------------- | --------- | ------- | ------ |
-| 10.2025 | [Pashov](https://www.pashov.com/) | Polyester | Lending | -      |
