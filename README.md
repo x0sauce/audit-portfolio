@@ -18,6 +18,8 @@ Looking out for any new opportunities, job opening, private audits, or collabora
 
 | Date    | Contest                                          | Platform  | Type                           | Vulnerabilities | Report                                                                                                     | Rank  |
 | ------- | ------------------------------------------------ | --------- | ------------------------------ | --------------- | ---------------------------------------------------------------------------------------------------------- | ----- |
+| 10.2025 | 3Jane                                            | Sherlock  | Undercollaterized Lending      | 3M              | [📋]()                                                                                                     | 16th  |
+| 08.2025 | Tangent                                          | Sherlock  | CDP                            | 1H, 5M          | [📋]()                                                                                                     | 17th  |
 | 08.2025 | Neutrl                                           | Sherlock  | Stablecoin                     | 1M              | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Sherlock/2025-08-neutrl-protocol.md)             | 1st   |
 | 06.2025 | Notional Exponent                                | Sherlock  | Lending with yield integration | 2H, 4M          | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Sherlock/2025-06-notional-exponent.md)           | 17th  |
 | 06.2025 | All Bridge Core Yield                            | Sherlock  | Token                          | 2M              | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Sherlock/2025-06-all-bridge-core-yield.md)       | 1st   |
@@ -39,3 +41,9 @@ Looking out for any new opportunities, job opening, private audits, or collabora
 | 11.2024 | vVv Launchpad - Investments & Token distribution | Sherlock  | Token Distributor              | 1H              | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Sherlock/2024-11-vvv-exchange-update-judging.md) | 1st   |
 | 11.2024 | Telcoin Update #2                                | Sherlock  | Stablecoin                     | -               | -                                                                                                          | 4th   |
 | 10.2024 | Gamma Brevis Rewarder                            | Sherlock  | Rewards                        | 1M              | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Sherlock/2024-10-gamma-rewarder.md)              | 2nd   |
+
+# Private Audits
+
+| Date    | Provider                          | Project   | Type    | Report |
+| ------- | --------------------------------- | --------- | ------- | ------ |
+| 10.2025 | [Pashov](https://www.pashov.com/) | Polyester | Lending | -      |
