@@ -16,15 +16,16 @@ Looking out for any new opportunities, job opening, private audits, or collabora
 
 # Private Audits
 
-| Date    | Provider                          | Project   | Type    | Report |
-| ------- | --------------------------------- | --------- | ------- | ------ |
-| 10.2025 | [Pashov](https://www.pashov.com/) | Polyester | Lending | -      |
+| Date    | Provider                          | Project        | Type           | Report        |
+| ------- | --------------------------------- | -------------- | -------------- | ------------- |
+| 11.2025 | [Pashov](https://www.pashov.com/) | Liquid Staking | Liquid Staking | Still Private |
+| 10.2025 | [Pashov](https://www.pashov.com/) | Polyester      | Lending        | Still Private |
 
 # Public Contests
 
 | Date    | Contest                                          | Platform  | Type                           | Vulnerabilities | Report                                                                                                     | Rank  |
 | ------- | ------------------------------------------------ | --------- | ------------------------------ | --------------- | ---------------------------------------------------------------------------------------------------------- | ----- |
-| 10.2025 | 3Jane                                            | Sherlock  | Undercollaterized Lending      | 3M              | [📋]()                                                                                                     | 16th  |
+| 10.2025 | 3Jane                                            | Sherlock  | Undercollaterized Lending      | 3M              | Private                                                                                                    | 16th  |
 | 08.2025 | Tangent                                          | Sherlock  | CDP                            | 1H, 5M          | [📋]()                                                                                                     | 17th  |
 | 08.2025 | Neutrl                                           | Sherlock  | Stablecoin                     | 1M              | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Sherlock/2025-08-neutrl-protocol.md)             | 1st   |
 | 06.2025 | Notional Exponent                                | Sherlock  | Lending with yield integration | 2H, 4M          | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Sherlock/2025-06-notional-exponent.md)           | 17th  |
@@ -32,7 +33,7 @@ Looking out for any new opportunities, job opening, private audits, or collabora
 | 06.2025 | Symbiotic Relay                                  | Sherlock  | Middleware SDK                 | 1M              | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Sherlock/2025-06-symbiotic-relay.md)             | 11th  |
 | 05.2025 | Jigsaw Finance                                   | Cantina   | CDP Stablecoin                 | 1H              | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Cantina/2025-05-jigsaw-protocol-v1.md)           | 61st  |
 | 05.2025 | DoDo Cross-Chain-Dex                             | Sherlock  | Cross-Chain DEX                | 5H, 3M          | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Sherlock/2025-05-dodo-cross-chain-dex.md)        | 1st   |
-| 04.2025 | ZKP2P V2                                         | Sherlock  | Token Marketplace              | 1H, 2M          | -                                                                                                          | 1st   |
+| 04.2025 | ZKP2P V2                                         | Sherlock  | Token Marketplace              | 1H, 2M          | Private                                                                                                    | 1st   |
 | 03.2025 | Yeet                                             | Immunefi  | Gamefied Defi                  | 1H              | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Immunefi/2025-03-yeet.md)                        | 27th  |
 | 03.2025 | Symmio Staking and Vesting                       | Sherlock  | Staking                        | 2M              | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Sherlock/2025-03-symm-io-stacking.md)            | 16th  |
 | 02.2025 | THORWallet                                       | Code4rena | Wallet                         | 1M              | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Code4rena/2025-02-thorwallet.md)                 | 130th |
