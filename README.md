@@ -16,10 +16,11 @@ Looking out for any new opportunities, job opening, private audits, or collabora
 
 # Private Audits
 
-| Date    | Provider                          | Project        | Type           | Report        |
-| ------- | --------------------------------- | -------------- | -------------- | ------------- |
-| 11.2025 | [Pashov](https://www.pashov.com/) | Liquid Staking | Liquid Staking | Still Private |
-| 10.2025 | [Pashov](https://www.pashov.com/) | Polyester      | Lending        | Still Private |
+| Date    | Provider                          | Project       | Type           | Report        |
+| ------- | --------------------------------- | ------------- | -------------- | ------------- |
+| 11.2025 | [Pashov](https://www.pashov.com/) | Aave V3.6     | Lending        | Still Private |
+| 11.2025 | [Pashov](https://www.pashov.com/) | Sekai Finance | Liquid Staking | Still Private |
+| 10.2025 | [Pashov](https://www.pashov.com/) | Polyester     | Lending        | Still Private |
 
 # Public Contests
 
