@@ -18,6 +18,8 @@ Looking out for any new opportunities, job opening, private audits, or collabora
 
 | Date    | Provider                          | Project          | Type                                              | Report                                                                                         |
 | ------- | --------------------------------- | ---------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 02.2025 | [Pashov](https://www.pashov.com/) | OlympusX Reserve | Treasury, Staking, UniswapV4 Hooks + Integrations | Still Private                                                                                  |
+| 02.2026 | [Pashov](https://www.pashov.com/) | Ostium           | Perpetuals, RWA                                   | Still Private                                                                                  |
 | 01.2026 | [Pashov](https://www.pashov.com/) | RAAC             | Token, Reward Distributor                         | Still Private                                                                                  |
 | 12.2025 | [Pashov](https://www.pashov.com/) | OlympusX Reserve | Treasury, Staking, UniswapV4 Hooks + Integrations | Still Private                                                                                  |
 | 11.2025 | [Pashov](https://www.pashov.com/) | Aave V3.6        | Lending                                           | [📋](https://github.com/pashov/audits/blob/master/team/pdf/Aave-security-review_2025-11-29.pdf) |
@@ -28,6 +30,8 @@ Looking out for any new opportunities, job opening, private audits, or collabora
 
 | Date    | Contest                                          | Platform  | Type                           | Vulnerabilities | Report                                                                                                    | Rank  |
 | ------- | ------------------------------------------------ | --------- | ------------------------------ | --------------- | --------------------------------------------------------------------------------------------------------- | ----- |
+| 11.2025 | stNXM                                            | Sherlock  | Vault                          | 1M              | [📋]()                                                                                                     | 51th  |
+| 10.2025 | Alchemix V3                                      | Immunefi  | Lending                        | 1H, 1L          | [📋]()                                                                                                     | 63rd  |
 | 10.2025 | 3Jane                                            | Sherlock  | Undercollaterized Lending      | 3M              | Private                                                                                                   | 16th  |
 | 08.2025 | Tangent                                          | Sherlock  | CDP                            | 1H, 5M          | [📋]()                                                                                                     | 17th  |
 | 08.2025 | Neutrl                                           | Sherlock  | Stablecoin                     | 1M              | [📋](https://github.com/x0sauce/audit-portfolio/blob/main/Sherlock/2025-08-neutrl-protocol.md)             | 1st   |
