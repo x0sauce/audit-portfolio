@@ -18,6 +18,7 @@ Looking out for any new opportunities, job opening, private audits, or collabora
 
 | Date    | Provider                          | Project          | Type                                              | Report                                                                                         |
 | ------- | --------------------------------- | ---------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 03.2026 | [Pashov](https://www.pashov.com/) | Ern              | Yield Bearing Vault                               | Still Private                                                                                  |
 | 02.2026 | [Pashov](https://www.pashov.com/) | OlympusX Reserve | Treasury, Staking, UniswapV4 Hooks + Integrations | Still Private                                                                                  |
 | 02.2026 | [Pashov](https://www.pashov.com/) | Ostium           | Perpetuals, RWA                                   | Still Private                                                                                  |
 | 01.2026 | [Pashov](https://www.pashov.com/) | RAAC             | Token, Reward Distributor                         | Still Private                                                                                  |
