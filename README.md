@@ -18,6 +18,7 @@ Looking out for any new opportunities, job opening, private audits, or collabora
 
 | Date    | Provider                          | Project          | Type                                              | Report                                                                                         |
 | ------- | --------------------------------- | ---------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 05.2026 | [Pashov](https://www.pashov.com/) | veRAAC           | Voting Escrow                                     | Still Private                                                                                  |
 | 04.2026 | [Pashov](https://www.pashov.com/) | HyperAMM         | AMM with Hyperps and HyperCore integration        | Still Private                                                                                  |
 | 04.2026 | [Pashov](https://www.pashov.com/) | HyperLend        | Lending                                           | Still Private                                                                                  |
 | 03.2026 | [Pashov](https://www.pashov.com/) | Ern              | Yield Bearing Vault                               | Still Private                                                                                  |
