@@ -16,6 +16,17 @@ Looking out for any new opportunities, job opening, private audits, or collabora
 
 # Private Audits
 
+## BailSec
+
+| Date    | Provider                       | Project     | Type        | Report                                                                                                                                             |
+| ------- | ------------------------------ | ----------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08.2026 | [BailSec](https://bailsec.io/) | Undisclosed | Undisclosed | Still Private                                                                                                                                      |
+| 08.2026 | [BailSec](https://bailsec.io/) | Undisclosed | Undisclosed | Still Private                                                                                                                                      |
+| 07.2026 | [BailSec](https://bailsec.io/) | PancakeSwap | V4 Hook     | [📋](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Pancakeswap%20%E2%80%93%20Infinity%20Hook%20%E2%80%93%20Final%20Audit%20Report.pdf) |
+| 07.2026 | [BailSec](https://bailsec.io/) | Undisclosed | Undisclosed | Still Private                                                                                                                                      |
+
+## Pashov Audit Group
+
 | Date    | Provider                          | Project          | Type                                              | Report                                                                                         |
 | ------- | --------------------------------- | ---------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | 05.2026 | [Pashov](https://www.pashov.com/) | veRAAC           | Voting Escrow                                     | Still Private                                                                                  |
