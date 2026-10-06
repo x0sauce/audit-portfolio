@@ -1,8 +1,8 @@
 # Introduction
 
-Hey guys Mel here, an independent security researcher active in audit contests. You can find all my public findings [here](https://github.com/x0sauce/audit-portfolio?tab=readme-ov-file#public-contests)
+Experienced smart contract security researcher specializing in EVM ecosystems. With multiple first place finishes in public audit contests and a proven track record of uncovering critical severity vulnerabilities, I provide expert smart contract security services to help DeFi teams protect their protocols and user funds.
 
-I have secured several first-place finishes in public contests, identifying over 40+ high/medium severity vulnerabilities across various protocols within less than a year of moving into web3 security.
+I have helped secure smart contracts for protocols and projects such as Aave, PancakeSwap, Venus, BNB Chain, ListaDAO, Gains, Ostium, and HyperLend. My experience spans lending, perpetuals, stablecoins, yield-bearing vaults, staking, and cross-chain infrastructure.
 
 # Contact Information
 
