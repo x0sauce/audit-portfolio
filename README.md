@@ -20,26 +20,33 @@ Looking out for any new opportunities, job opening, private audits, or collabora
 
 | Date    | Provider                       | Project     | Type        | Report                                                                                                                                             |
 | ------- | ------------------------------ | ----------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08.2026 | [BailSec](https://bailsec.io/) | Undisclosed | Undisclosed | Still Private                                                                                                                                      |
+| 10.2026 | [BailSec](https://bailsec.io/) | Undisclosed | Undisclosed | Still Private                                                                                                                                      |
+| 09.2026 | [BailSec](https://bailsec.io/) | Undisclosed | Undisclosed | Still Private                                                                                                                                      |
+| 09.2026 | [BailSec](https://bailsec.io/) | Venus       | Undisclosed | Still Private                                                                                                                                      |
+| 09.2026 | [BailSec](https://bailsec.io/) | BNB Chain   | Undisclosed | Still Private                                                                                                                                      |
+| 08.2026 | [BailSec](https://bailsec.io/) | Forge       | Undisclosed | Still Private                                                                                                                                      |
 | 08.2026 | [BailSec](https://bailsec.io/) | Undisclosed | Undisclosed | Still Private                                                                                                                                      |
 | 07.2026 | [BailSec](https://bailsec.io/) | PancakeSwap | V4 Hook     | [📋](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Pancakeswap%20%E2%80%93%20Infinity%20Hook%20%E2%80%93%20Final%20Audit%20Report.pdf) |
-| 07.2026 | [BailSec](https://bailsec.io/) | Undisclosed | Undisclosed | Still Private                                                                                                                                      |
+| 07.2026 | [BailSec](https://bailsec.io/) | ListaDao    | Undisclosed | Still Private                                                                                                                                      |
 
 ## Pashov Audit Group
 
-| Date    | Provider                          | Project          | Type                                              | Report                                                                                         |
-| ------- | --------------------------------- | ---------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 05.2026 | [Pashov](https://www.pashov.com/) | veRAAC           | Voting Escrow                                     | Still Private                                                                                  |
-| 04.2026 | [Pashov](https://www.pashov.com/) | HyperAMM         | AMM with Hyperps and HyperCore integration        | Still Private                                                                                  |
-| 04.2026 | [Pashov](https://www.pashov.com/) | HyperLend        | Lending                                           | Still Private                                                                                  |
-| 03.2026 | [Pashov](https://www.pashov.com/) | Ern              | Yield Bearing Vault                               | Still Private                                                                                  |
-| 02.2026 | [Pashov](https://www.pashov.com/) | OlympusX Reserve | Treasury, Staking, UniswapV4 Hooks + Integrations | Still Private                                                                                  |
-| 02.2026 | [Pashov](https://www.pashov.com/) | Ostium           | Perpetuals, RWA                                   | Still Private                                                                                  |
-| 01.2026 | [Pashov](https://www.pashov.com/) | RAAC             | Token, Reward Distributor                         | Still Private                                                                                  |
-| 12.2025 | [Pashov](https://www.pashov.com/) | OlympusX Reserve | Treasury, Staking, UniswapV4 Hooks + Integrations | Still Private                                                                                  |
-| 11.2025 | [Pashov](https://www.pashov.com/) | Aave V3.6        | Lending                                           | [📋](https://github.com/pashov/audits/blob/master/team/pdf/Aave-security-review_2025-11-29.pdf) |
-| 11.2025 | [Pashov](https://www.pashov.com/) | Sekai Finance    | Liquid Staking                                    | Still Private                                                                                  |
-| 10.2025 | [Pashov](https://www.pashov.com/) | Polyester        | Lending                                           | Still Private                                                                                  |
+| Date    | Provider                          | Project          | Type                                              | Report                                                                                             |
+| ------- | --------------------------------- | ---------------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 09.2026 | [Pashov](https://www.pashov.com/) | Gains            | Perpetuals                                        | Still Private                                                                                      |
+| 08.2026 | [Pashov](https://www.pashov.com/) | Ensemble         | Perpetuals                                        | [📋](https://github.com/pashov/audits/blob/master/team/pdf/Ensemble-security-review_2026-09-14.pdf) |
+| 07.2026 | [Pashov](https://www.pashov.com/) | RAAC             | Auction                                           | Still Private                                                                                      |
+| 05.2026 | [Pashov](https://www.pashov.com/) | veRAAC           | Voting Escrow                                     | Still Private                                                                                      |
+| 04.2026 | [Pashov](https://www.pashov.com/) | HyperAMM         | AMM with Hyperps and HyperCore integration        | Still Private                                                                                      |
+| 04.2026 | [Pashov](https://www.pashov.com/) | HyperLend        | Lending                                           | Still Private                                                                                      |
+| 03.2026 | [Pashov](https://www.pashov.com/) | Ern              | Yield Bearing Vault                               | Still Private                                                                                      |
+| 02.2026 | [Pashov](https://www.pashov.com/) | OlympusX Reserve | Treasury, Staking, UniswapV4 Hooks + Integrations | [📋](https://github.com/pashov/audits/blob/master/team/pdf/OLY-security-review_2026-02-16.pdf)      |
+| 02.2026 | [Pashov](https://www.pashov.com/) | Ostium           | Perpetuals, RWA                                   | Still Private                                                                                      |
+| 01.2026 | [Pashov](https://www.pashov.com/) | RAAC             | Token, Reward Distributor                         | Still Private                                                                                      |
+| 12.2025 | [Pashov](https://www.pashov.com/) | OlympusX Reserve | Treasury, Staking, UniswapV4 Hooks + Integrations | [📋](https://github.com/pashov/audits/blob/master/team/pdf/OLY-security-review_2025-12-31.pdf)      |
+| 11.2025 | [Pashov](https://www.pashov.com/) | Aave V3.6        | Lending                                           | [📋](https://github.com/pashov/audits/blob/master/team/pdf/Aave-security-review_2025-11-29.pdf)     |
+| 11.2025 | [Pashov](https://www.pashov.com/) | Sekai Finance    | Liquid Staking                                    | Still Private                                                                                      |
+| 10.2025 | [Pashov](https://www.pashov.com/) | Polyester        | Lending                                           | Still Private                                                                                      |
 
 # Public Contests
 
