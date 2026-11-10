@@ -20,6 +20,9 @@ For any new opportunities, job opening, private audits, or collaborations, I can
 
 | Date    | Provider                       | Project     | Type        | Report                                                                                                                                             |
 | ------- | ------------------------------ | ----------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11.2026 | [BailSec](https://bailsec.io/) | Nest        | Undisclosed | Still Private                                                                                                                                      |
+| 11.2026 | [BailSec](https://bailsec.io/) | Benqi       | Undisclosed | Still Private                                                                                                                                      |
+| 10.2026 | [BailSec](https://bailsec.io/) | Undisclosed | Undisclosed | Still Private                                                                                                                                      |
 | 10.2026 | [BailSec](https://bailsec.io/) | Undisclosed | Undisclosed | Still Private                                                                                                                                      |
 | 09.2026 | [BailSec](https://bailsec.io/) | Undisclosed | Undisclosed | Still Private                                                                                                                                      |
 | 09.2026 | [BailSec](https://bailsec.io/) | Venus       | Undisclosed | Still Private                                                                                                                                      |
